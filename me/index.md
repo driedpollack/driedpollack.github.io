@@ -1,6 +1,6 @@
 ---
 layout: me
-title: me
+title: About me
 ---
 
 Hi, Welcome to my page.
